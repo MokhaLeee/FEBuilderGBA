@@ -8227,7 +8227,8 @@ namespace FEBuilderGBA
             {
                 return SkillConfigFE8NVer2SkillForm.GetSkillText(num);
             }
-            else if (skill == PatchUtil.skill_system_enum.CSkillSys09x)
+            else if (skill == PatchUtil.skill_system_enum.CSkillSys09x
+                  || skill == PatchUtil.skill_system_enum.CSkillSys300)
             {
                 return SkillConfigCSkillSystem09xForm.GetSkillName(num);
             }
