@@ -998,12 +998,6 @@
     <Compile Include="SkillAssignmentUnitSkillSystemForm.Designer.cs">
       <DependentUpon>SkillAssignmentUnitSkillSystemForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SkillAssignmentUnitCSkillSysForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="SkillAssignmentUnitCSkillSysForm.Designer.cs">
-      <DependentUpon>SkillAssignmentUnitCSkillSysForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="SkillConfigFE8NSkillForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -2740,9 +2734,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SkillAssignmentUnitSkillSystemForm.resx">
       <DependentUpon>SkillAssignmentUnitSkillSystemForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="SkillAssignmentUnitCSkillSysForm.resx">
-      <DependentUpon>SkillAssignmentUnitCSkillSysForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SkillConfigFE8NSkillForm.resx">
       <DependentUpon>SkillConfigFE8NSkillForm.cs</DependentUpon>
